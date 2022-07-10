@@ -27,4 +27,4 @@ var_b = 9
 var_c = 5
 
 if var_a < var_c:
-    print("A variável a é menor que a variável c.")
+    print("A variável A é menor que a variável C.")
