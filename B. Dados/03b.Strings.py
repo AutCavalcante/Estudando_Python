@@ -1,4 +1,4 @@
-######## RESOLUÇÃO ######## 
+######## 🥇 RESOLUÇÃO 🥇 ######## 
 '''
 CRIE UM CÓDIGO QUE IMPRIMA A STRING ABAIXO DE MANEIRAS DIFERENTES
 

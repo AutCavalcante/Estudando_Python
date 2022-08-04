@@ -1,4 +1,4 @@
-######## RESOLUÇÃO ######## 
+######## 🥇 RESOLUÇÃO 🥇 ######## 
 '''
     DESCUBRA QUAL É O TIPO DOS DADOS ABAIXO:
 

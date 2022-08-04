@@ -1,4 +1,4 @@
-######## EXERCÍCIO ########
+######## 🥇EXERCÍCIO - VARIÁVEIS🥇 ########
 '''
     DESCUBRA QUAL É O TIPO DOS DADOS ABAIXO:
 

@@ -1,4 +1,4 @@
-############### 05a - STRING DINÂMICO ###############
+######## 🥇EXERCÍCIOS - STRING DINÂMICO 🥇 ########
 '''
 EXERCÍCIO 1
 

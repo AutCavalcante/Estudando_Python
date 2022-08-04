@@ -1,4 +1,4 @@
-######## RESOLUÇÃO ######## 
+######## 🥇 RESOLUÇÃO 🥇 ########  
 
 # EXECÍCIO 1
 '''
@@ -12,7 +12,7 @@ Utilize string dinâmico para criar um retorno para o usuário que se cadastrou 
 nome_Usuario = 'ADRIANO'
 hobby = 'ANDAR DE SKATE!'
 
-print(f'Olá, sou a {nome_Usuario} e gosto de {hobby}')
+print(f'Olá, sou o(a) {nome_Usuario} e gosto de {hobby}')
 
 '''
 EXECÍCIO 2

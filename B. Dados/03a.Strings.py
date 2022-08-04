@@ -1,4 +1,4 @@
-############### 04a - STRINGS ###############
+######## 🥇EXERCÍCIO -STRING 🥇 ########
 '''
 CRIE UM CÓDIGO QUE IMPRIMA A STRING ABAIXO DE MANEIRAS DIFERENTES
 
